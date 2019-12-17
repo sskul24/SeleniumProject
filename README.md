@@ -1,2 +1,2 @@
 # SeleniumProject
-selenium practice project
+selenium practice project for sample demo
